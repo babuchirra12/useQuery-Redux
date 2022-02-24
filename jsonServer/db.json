@@ -1,0 +1,11 @@
+{
+    "contacts": [
+      { "id": 1, "name": "json-server", "email": "typicode" },
+{ "id": 2, "name": "json-server", "email": "typicode" },
+{ "id": 3, "name": "json-server", "email": "typicode" }
+    ],
+    "comments": [
+      { "id": 1, "body": "some comment", "postId": 1 }
+    ],
+    "profile": { "name": "typicode" }
+  }
